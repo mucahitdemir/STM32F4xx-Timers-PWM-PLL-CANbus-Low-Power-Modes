@@ -19,4 +19,14 @@ This website provides a well-structed documents for CAN Bus Protocol. Link: http
 - https://drive.google.com/file/d/1FSoYc1c3nJ54NlAVaCuEaQ4uoTC5Soao/view?usp=sharing
 
 I use CAN-SPI Transceiver module (MCP2515 Stand-Alone CAN Controller with SPI Interface)
+Kvaser **CANtegrity**
+Kvaser CANtegrity is signal integrity hardware that has been integrated in Kvaser’s CAN FD controller logic. The hardware adds high-speed sampling (640MHz) which provides more detailed data on each CAN frame.
+
+This allows Kvaser CANtegrity to combine a) oscilloscope-level display of the bus signal, with b) exact interpretation of the CAN frame. 
+
+With this data it is possible to process the information and find deviations from the perfect CAN-frame, including phase shift of edges and unexpected edges. 
+
+CANtegrity hardware provides deep knowledge of the CAN-frames under analysis, and through that, a complete understanding of the CAN system can be achieved. An advantage over a traditional oscilloscope is being able to trigger on specific error frames or ACK bits, rather than just analog characteristics, such as level or pulse width.
+
+
 
