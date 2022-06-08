@@ -18,3 +18,5 @@ PWM is employed in a wide variety of applications, ranging from measurement and 
 This website provides a well-structed documents for CAN Bus Protocol. Link: https://www.csselectronics.com/
 - https://drive.google.com/file/d/1FSoYc1c3nJ54NlAVaCuEaQ4uoTC5Soao/view?usp=sharing
 
+I use CAN-SPI Transceiver module (MCP2515 Stand-Alone CAN Controller with SPI Interface)
+
